@@ -26,7 +26,8 @@
 # ----------------------------------------
 # MAIN
 # ----------------------------------------
-if __name__ == "__main__":
+
+```if __name__ == "__main__":
     # Pide al usuario el número a convertir y el número de bits 
     # Como el resultado de input es de tipo string, se convierte a entero usando int()
     numero_decimal = int(input("Escribe el número en decimal que quieres convertir: "))
@@ -38,4 +39,4 @@ if __name__ == "__main__":
     # Muestra por pantalla el resultado.
     # Para imprimir un entero es necesario convertirlo a string con str()
     print("El numero " + str(numero_decimal) + " es " + numero_binario + " en binario con " + str(numero_bits) + " bits.")
- 
+ ```
