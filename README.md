@@ -51,3 +51,4 @@ El repositorio contiene un programa en Python para convertir un número decimal 
 ```
     print("El numero " + str(numero_decimal) + " es " + numero_binario + " en binario con " + str(numero_bits) + " bits.")
 ```
+***
