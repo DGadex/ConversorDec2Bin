@@ -32,7 +32,7 @@ El repositorio contiene un programa en Python para convertir un número decimal 
            numero_binario = "1" + numero_binario
     return numero_binario
 ```
-##### MAIN
+#### MAIN
 ```
     if __name__ == "__main__":
 ```
