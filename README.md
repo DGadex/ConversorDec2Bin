@@ -34,7 +34,6 @@
     return numero_binario
 ```
 # MAIN
-====
 ```
     if __name__ == "__main__":
 ```
