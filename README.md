@@ -45,7 +45,7 @@
     numero_bits = int(input("Cuantos bits tendrá el número binario: "))
 ```
     
-### se llama a la función dec2bin() para hacer la conversión
+### Se llama a la función dec2bin() para hacer la conversión
 ```
     numero_binario = dec2bin(numero_decimal, numero_bits)
 ```
