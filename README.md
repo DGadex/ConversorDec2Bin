@@ -27,15 +27,16 @@
 ### Quita el "-0b" del principio
 ```
          while len(numero_binario) < numero_bits: 
-
+```
 ### Añade 1's a la izquierda si hace falta
 ```
            numero_binario = "1" + numero_binario
     return numero_binario
-
+```
 # MAIN
 
-```if __name__ == "__main__":
+```
+    if __name__ == "__main__":
 ```
 ### Pide al usuario el número a convertir y el número de bits 
 ### Como el resultado de input es de tipo string, se convierte a entero usando int()
